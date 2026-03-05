@@ -52,3 +52,4 @@ print(f'6 - Branco : {branco} votos')
 
 print(f'Tivemos uma porcentagem de {(nulo / 20):.2%} votos em nulo.')
 print(f'Tivemos uma porcentagem de {(branco / 20):.2%} votos em branco.')
+
