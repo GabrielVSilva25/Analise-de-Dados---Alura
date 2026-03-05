@@ -15,4 +15,5 @@ for i in range(0, 10):
         id_amargos.append(produtos)
 
 
+
 print(f'Dos produtos informados temos: {len(id_doces)} Doces e {len(id_amargos)} Amargos.')
